@@ -96,5 +96,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hasnaacarr.hasnaacarr&right_color=darkmagenta&left_text=Visitors"  />
 </div>
 
-![hasnaacarr snake gif](https://github.com/hasnaacarr/hasnaacarr/blob/output/github-contribution-grid-snake.svg)
 ###
