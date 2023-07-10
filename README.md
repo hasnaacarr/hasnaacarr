@@ -88,7 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hasnaacarr/hasnaacarr/output/snake.svg" alt="Snake animation" />
 
 ###
 
