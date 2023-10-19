@@ -1,15 +1,3 @@
-<br clear="both">
-
-<p align="center">Visitors</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hasnaacarr/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">Hi there , I'am Hasuma.</h2>
 
 ###
@@ -102,6 +90,22 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnaacarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<br clear="both">
+
+<p align="center">Visitors</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hasnaacarr/count.svg?"  />
 </div>
 
 ###
