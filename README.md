@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://hasnaacar.net/wp-content/uploads/2023/10/yenigifgithub.gif"  />
+  <img height="" src="https://hasnaacar.net/wp-content/uploads/2023/10/githubgif.gif"  />
 </div>
 
 ###
