@@ -1,6 +1,4 @@
-<h2 align="left">Hi there , I'am Hasna</h2>
 
-###
 
 <div align="center">
   <img height="" src="https://hasnaacar.net/wp-content/uploads/2024/01/Sari-Siyah-ve-Beyaz-Modern-ve-Geometrik-Kisisel-LinkedIn-Reklam-Bandi.png"  />
