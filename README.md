@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://hasnaacar.net/wp-content/uploads/2023/10/githubgif.gif"  />
+  <img height="" src="https://hasnaacar.net/wp-content/uploads/2024/01/Sari-Siyah-ve-Beyaz-Modern-ve-Geometrik-Kisisel-LinkedIn-Reklam-Bandi.png"  />
 </div>
 
 ###
